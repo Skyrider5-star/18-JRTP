@@ -1,0 +1,5 @@
+class Data{
+public static void main(string[] args){
+system.out.println("display data")
+}
+}
